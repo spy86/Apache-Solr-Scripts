@@ -2,6 +2,8 @@
 
 Bash script to upgrade an entire Solr index from 4.x -> 5.x -> 6.x so it can be read by Solr6.x or Solr 7.x
 
+[![Bash_script](https://img.shields.io/badge/bash-100%25-blue.svg)](https://bitbucket.org/devops_sysops/apachesolr/) 
+[![Bash_script](https://img.shields.io/badge/test-passed-brightgreen.svg)](https://bitbucket.org/devops_sysops/wordpress/)
 ## Usage:
 
     Script to Upgrade old indices from 4.x -> 5.x -> 6.x format, so it can be used with Solr 6.x or 7.x
@@ -16,4 +18,4 @@ Bash script to upgrade an entire Solr index from 4.x -> 5.x -> 6.x so it can be 
 
 ## License
 
-Â© [Cominvent AS](www.cominvent.com) and licensed under the Apache License v2.0
+© [Cominvent AS](www.cominvent.com) and licensed under the Apache License v2.0
