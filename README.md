@@ -1,8 +1,7 @@
 # Upgrade Solr index
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Bash script to upgrade an entire Solr index from 4.x -> 5.x -> 6.x so it can be read by Solr6.x or Solr 7.x
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Usage:
 
